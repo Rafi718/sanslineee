@@ -1,0 +1,1 @@
+alert("Maaf halaman ini sedang dalam pengembangan")
